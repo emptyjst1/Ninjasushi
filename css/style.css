@@ -1,0 +1,72 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    max-width: 980px;
+    margin: auto;
+}
+/*     navbar       */
+nav{
+    margin: auto;
+    width: 100%;
+    background: black;
+}
+header.fixed {
+    height: auto;
+    position: fixed;
+    z-index: 999999;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+.rofl{
+    text-decoration:none;
+}
+footer{
+    margin-top: 100px;
+    justify-content: center;
+}
+footer h6{
+    text-align: center;
+}
+hr{
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+h2 {
+     padding-top: 30px;
+     text-align: center;
+     margin: 20px;
+}
+
+footer a:hover{
+    color: white;
+}
+form{
+    padding-top: 100px;
+}
+.btn-info {
+    background-color: black;
+    border: none;
+}
+.row h4{
+    text-align: center;
+}
+.row p{
+    text-align: center;
+}
+.card{
+    text-align: center;
+}
+
+
+
+
+
+
